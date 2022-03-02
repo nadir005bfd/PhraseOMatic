@@ -1,4 +1,4 @@
 # PhraseOMatic
-#HeadFirstJava by Bert Bates & Kathy Sierra
-#javalearning
-#page 50
+# HeadFirstJava by Bert Bates & Kathy Sierra
+# javalearning
+# page 50
